@@ -444,7 +444,9 @@ body {
     font-size: 1rem;
 }
 .btns a:hover{
-    footer{
+    background-color: #284fd1;
+}
+footer{
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -577,6 +579,4 @@ nav .menu-btn{
         width: 90%;
         height: 40px;
     }
-}
-    background-color: #284fd1;
 }
