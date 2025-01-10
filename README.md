@@ -12,3 +12,5 @@ including the movies page Ex : <video width="920" height="640" controls>
   3 - the photo ex <link rel="shortcut icon"href="file:///Users/amrmareh/Downloads/Screenshot_2025-01-06_at_9.18.20_AM-removebg.png"> should change in every movie/page to your own file photo url 
   
 Thank you very much Dr.Prof.Ferhat uçar 
+
+The link for the videos : https://drive.google.com/drive/folders/1MkzK-AztsRydOv7GQn8QA3HFXMsWNGS_?usp=sharing
